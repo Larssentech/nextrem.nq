@@ -1,0 +1,20 @@
+Copyright (c) 2005-2011 NextremSoft
+Portions (c) 2001-2005 NextremSoft 
+End User Licence Agreement (EULA)
+----------------------------------------------------
+This software/documentation contains proprietary information of NextremSoft.
+All rights are reserved.
+
+Reverse engineering of this software is prohibited. No part of this software
+or documentation may be copied, photocopied, reproduced, stored in a retrieval
+system, transmitted in any form or by any means, or translated into another
+language without the prior written consent of NextremSoft.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+By using this software you accept the terms of this contract. 
+If you do not wish to continue, please exit this application.

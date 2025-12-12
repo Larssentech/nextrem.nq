@@ -1,0 +1,58 @@
+group_desc	supergroup1	series_code	group_code	primary_option_code	secondary_option_code	id	series_desc	option_desc	currency	price	standard_option_desc	compacted_option_desc	obsolete	compulsory	PMK	CLO	PMD	ARC	BUS
+CPU	CPU	AMDC	CPU	AMDCCPU006		AMDCCPU006	Apple eMac (Desktop Consumer)	eMac 1GHz G4	GBP	570	eMac 1GHz G4	 eMac1GHzG4							
+CPU	CPU	AMDC	CPU	AMDCCPU007		AMDCCPU007	Apple eMac (Desktop Consumer)	iMac 1GHz G4	GBP	630	iMac 1GHz G4	 iMac1GHzG4							
+CPU	CPU	AMDC	CPU	AMDCCPU008		AMDCCPU008	Apple eMac (Desktop Consumer)	iMac 1.25GHz G4	GBP	700	iMac 1.25GHz G4	 iMac125GHzG4							
+DISPLAY	GRAPHICS	AMDC	DIS	AMDCDIS005		AMDCDIS005	Apple eMac (Desktop Consumer)	eMac 17"	GBP	100	eMac 17"	 eMac17							
+DISPLAY	GRAPHICS	AMDC	DIS	AMDCDIS006		AMDCDIS006	Apple eMac (Desktop Consumer)	iMac 15"	GBP	130	iMac 15"	 iMac15							
+DISPLAY	GRAPHICS	AMDC	DIS	AMDCDIS007		AMDCDIS007	Apple eMac (Desktop Consumer)	iMac 17"	GBP	150	iMac 17"	 iMac17							
+DISPLAY	GRAPHICS	AMDC	DIS	AMDCDIS008		AMDCDIS008	Apple eMac (Desktop Consumer)	iMac 20"	GBP	210	iMac 20"	 iMac20							
+HARD DRIVE	DRIVES	AMDC	HDD	AMDCHDD006		AMDCHDD006	Apple eMac (Desktop Consumer)	eMac 40GB Ultra ATA	GBP	140	eMac 40GB Ultra ATA	 eMac40GBUltraATA							
+HARD DRIVE	DRIVES	AMDC	HDD	AMDCHDD007		AMDCHDD007	Apple eMac (Desktop Consumer)	eMac 80GB Ultra ATA	GBP	170	eMac 80GB Ultra ATA	 eMac80GBUltraATA							
+HARD DRIVE	DRIVES	AMDC	HDD	AMDCHDD008		AMDCHDD008	Apple eMac (Desktop Consumer)	iMac 80GB Ultra ATA (7200 rpm)	GBP	190	iMac 80GB Ultra ATA (7200 rpm)	 iMac80GBUltraATA(7200rpm)							
+MODEL	MODEL	AMDC	MOD	AMDCMOD002		AMDCMOD002	Apple eMac (Desktop Consumer)	eMac	GBP	490	eMac	 eMac							
+MODEL	MODEL	AMDC	MOD	AMDCMOD003		AMDCMOD003	Apple eMac (Desktop Consumer)	iMac	GBP	630	iMac	 iMac							
+OPTICAL DRIVE	DRIVES	AMDC	OPD	AMDCOPD003		AMDCOPD003	Apple eMac (Desktop Consumer)	eMac DVD/CD-RW Combo Drive	GBP	60	eMac DVD/CD-RW Combo Drive	 eMacDVD/CDRWComboDrive							
+OPTICAL DRIVE	DRIVES	AMDC	OPD	AMDCOPD004		AMDCOPD004	Apple eMac (Desktop Consumer)	eMac DVD-RW Super Drive	GBP	90	eMac DVD-RW Super Drive	 eMacDVDRWSuperDrive							
+OPTICAL DRIVE	DRIVES	AMDC	OPD	AMDCOPD005		AMDCOPD005	Apple eMac (Desktop Consumer)	iMac DVD/CD-RW Combo Drive	GBP	70	iMac DVD/CD-RW Combo Drive	 iMacDVD/CDRWComboDrive							
+OPTICAL DRIVE	DRIVES	AMDC	OPD	AMDCOPD006		AMDCOPD006	Apple eMac (Desktop Consumer)	iMac DVD-RW Super Drive	GBP	90	iMac DVD-RW Super Drive	 iMacDVDRWSuperDrive							
+CPU	CPU	AMDP	CPU	AMDPCPU009		AMDPCPU009	Apple PowerMac (Desktop Pro)	PowerMac 1.6GHz G5	GBP	1000	PowerMac 1.6GHz G5	 PowerMac16GHzG5							
+CPU	CPU	AMDP	CPU	AMDPCPU010		AMDPCPU010	Apple PowerMac (Desktop Pro)	PowerMac 1.8GHz G5	GBP	1200	PowerMac 1.8GHz G5	 PowerMac18GHzG5							
+CPU	CPU	AMDP	CPU	AMDPCPU011		AMDPCPU011	Apple PowerMac (Desktop Pro)	PowerMac Dual 2GHz G5	GBP	1400	PowerMac Dual 2GHz G5	 PowerMacDual2GHzG5							
+CPU	CPU	AMDP	CPU	AMDPCPU012		AMDPCPU012	Apple PowerMac (Desktop Pro)	PowerMac 1.25GHz G4	GBP	1600	PowerMac 1.25GHz G4	 PowerMac125GHzG4							
+CPU	CPU	AMDP	CPU	AMDPCPU013		AMDPCPU013	Apple PowerMac (Desktop Pro)	PowerMac Dual 1.25GHz G4	GBP	1700	PowerMac Dual 1.25GHz G4	 PowerMacDual125GHzG4							
+HARD DRIVE	DRIVES	AMDP	HDD	AMDPHDD009		AMDPHDD009	Apple PowerMac (Desktop Pro)	PowerMac 80GB Serial ATA	GBP	200	PowerMac 80GB Serial ATA	 PowerMac80GBSerialATA							
+HARD DRIVE	DRIVES	AMDP	HDD	AMDPHDD010		AMDPHDD010	Apple PowerMac (Desktop Pro)	PowerMac 160GB Serial ATA	GBP	320	PowerMac 160GB Serial ATA	 PowerMac160GBSerialATA							
+HARD DRIVE	DRIVES	AMDP	HDD	AMDPHDD011		AMDPHDD011	Apple PowerMac (Desktop Pro)	PowerMac 80GB Ultra ATA	GBP	190	PowerMac 80GB Ultra ATA	 PowerMac80GBUltraATA							
+MODEL	MODEL	AMDP	MOD	AMDPMOD004		AMDPMOD004	Apple PowerMac (Desktop Pro)	PowerMac	GBP	1000	PowerMac	 PowerMac							
+OPTICAL DRIVE	DRIVES	AMDP	OPD	AMDPOPD007		AMDPOPD007	Apple PowerMac (Desktop Pro)	PowerMac DVD-RW Super Drive	GBP	90	PowerMac DVD-RW Super Drive	 PowerMacDVDRWSuperDrive							
+OPTICAL DRIVE	DRIVES	AMDP	OPD	AMDPOPD008		AMDPOPD008	Apple PowerMac (Desktop Pro)	PowerMac DVD/CD-RW Combo Drive	GBP	80	PowerMac DVD/CD-RW Combo Drive	 PowerMacDVD/CDRWComboDrive							
+CPU	CPU	AMPC	CPU	AMPCCPU000		AMPCCPU000	Apple iBook (Portable Consumer)	iBook 800MHz G4	GBP	130	iBook 800MHz G4	 iBook800MHzG4							
+CPU	CPU	AMPC	CPU	AMPCCPU001		AMPCCPU001	Apple iBook (Portable Consumer)	iBook 933MHz G4	GBP	140	iBook 933MHz G4	 iBook933MHzG4							
+CPU	CPU	AMPC	CPU	AMPCCPU002		AMPCCPU002	Apple iBook (Portable Consumer)	iBook 1GHz G4	GBP	160	iBook 1GHz G4	 iBook1GHzG4							
+DISPLAY	GRAPHICS	AMPC	DIS	AMPCDIS000		AMPCDIS000	Apple iBook (Portable Consumer)	iBook 12.1"	GBP	90	iBook 12.1"	 iBook121							
+DISPLAY	GRAPHICS	AMPC	DIS	AMPCDIS001		AMPCDIS001	Apple iBook (Portable Consumer)	iBook 14"	GBP	100	iBook 14"	 iBook14							
+HARD DRIVE	DRIVES	AMPC	HDD	AMPCHDD000		AMPCHDD000	Apple iBook (Portable Consumer)	iBook 30GB Ultra ATA	GBP	130	iBook 30GB Ultra ATA	 iBook30GBUltraATA							
+HARD DRIVE	DRIVES	AMPC	HDD	AMPCHDD001		AMPCHDD001	Apple iBook (Portable Consumer)	iBook 40GB Ultra ATA	GBP	140	iBook 40GB Ultra ATA	 iBook40GBUltraATA							
+HARD DRIVE	DRIVES	AMPC	HDD	AMPCHDD002		AMPCHDD002	Apple iBook (Portable Consumer)	iBook 60GB Ultra ATA	GBP	160	iBook 60GB Ultra ATA	 iBook60GBUltraATA							
+MODEL	MODEL	AMPC	MOD	AMPCMOD000		AMPCMOD000	Apple iBook (Portable Consumer)	iBook	GBP	473	iBook	 iBook							
+OPTICAL DRIVE	DRIVES	AMPC	OPD	AMPCOPD000		AMPCOPD000	Apple iBook (Portable Consumer)	iBook DVD/CD-RW Combo Drive	GBP	50	iBook DVD/CD-RW Combo Drive	 iBookDVD/CDRWComboDrive							
+CPU	CPU	AMPP	CPU	AMPPCPU003		AMPPCPU003	Apple PowerBook (Portable Pro)	PowerBook 1GHz G4	GBP	160	PowerBook 1GHz G4	 PowerBook1GHzG4							
+CPU	CPU	AMPP	CPU	AMPPCPU004		AMPPCPU004	Apple PowerBook (Portable Pro)	PowerBook 1.25GHz G4	GBP	200	PowerBook 1.25GHz G4	 PowerBook125GHzG4							
+CPU	CPU	AMPP	CPU	AMPPCPU005		AMPPCPU005	Apple PowerBook (Portable Pro)	PowerBook 1.33GHz G4	GBP	230	PowerBook 1.33GHz G4	 PowerBook133GHzG4							
+DISPLAY	GRAPHICS	AMPP	DIS	AMPPDIS002		AMPPDIS002	Apple PowerBook (Portable Pro)	PowerBook 12.1"	GBP	90	PowerBook 12.1"	 PowerBook121							
+DISPLAY	GRAPHICS	AMPP	DIS	AMPPDIS003		AMPPDIS003	Apple PowerBook (Portable Pro)	PowerBook 15.2"	GBP	120	PowerBook 15.2"	 PowerBook152							
+DISPLAY	GRAPHICS	AMPP	DIS	AMPPDIS004		AMPPDIS004	Apple PowerBook (Portable Pro)	PowerBook 17"	GBP	140	PowerBook 17"	 PowerBook17							
+HARD DRIVE	DRIVES	AMPP	HDD	AMPPHDD003		AMPPHDD003	Apple PowerBook (Portable Pro)	PowerBook 40GB Ultra ATA/100	GBP	160	PowerBook 40GB Ultra ATA/100	 PowerBook40GBUltraATA/100							
+HARD DRIVE	DRIVES	AMPP	HDD	AMPPHDD004		AMPPHDD004	Apple PowerBook (Portable Pro)	PowerBook 60GB Ultra ATA/100	GBP	160	PowerBook 60GB Ultra ATA/100	 PowerBook60GBUltraATA/100							
+HARD DRIVE	DRIVES	AMPP	HDD	AMPPHDD005		AMPPHDD005	Apple PowerBook (Portable Pro)	PowerBook 80GB Ultra ATA/100	GBP	200	PowerBook 80GB Ultra ATA/100	 PowerBook80GBUltraATA/100							
+MODEL	MODEL	AMPP	MOD	AMPPMOD001		AMPPMOD001	Apple PowerBook (Portable Pro)	PowerBook	GBP	850	PowerBook	 PowerBook							
+OPTICAL DRIVE	DRIVES	AMPP	OPD	AMPPOPD001		AMPPOPD001	Apple PowerBook (Portable Pro)	PowerBook DVD/CD-RW Combo Drive	GBP	60	PowerBook DVD/CD-RW Combo Drive	 PowerBookDVD/CDRWComboDrive							
+OPTICAL DRIVE	DRIVES	AMPP	OPD	AMPPOPD002		AMPPOPD002	Apple PowerBook (Portable Pro)	PowerBook DVD-RW Super Drive	GBP	90	PowerBook DVD-RW Super Drive	 PowerBookDVDRWSuperDrive							
+CPU	CPU	AMSP	CPU	AMSPCPU014		AMSPCPU014	Apple Xserve (Server Pro)	Xserve Dual 2GHz G5 64bit	GBP	1900	Xserve Dual 2GHz G5 64bit	 XserveDual2GHzG564bit							
+HARD DRIVE	DRIVES	AMSP	HDD	AMSPHDD012		AMSPHDD012	Apple Xserve (Server Pro)	Xserve 160GB Serial ATA	GBP	330	Xserve 160GB Serial ATA	 Xserve160GBSerialATA							
+HARD DRIVE	DRIVES	AMSP	HDD	AMSPHDD013		AMSPHDD013	Apple Xserve (Server Pro)	Xserve 2x160GB Serial ATA RAID	GBP	500	Xserve 2x160GB Serial ATA RAID	 Xserve2x160GBSerialATARAID							
+HARD DRIVE	DRIVES	AMSP	HDD	AMSPHDD014		AMSPHDD014	Apple Xserve (Server Pro)	Xserve 3x160GB Serial ATA RAID	GBP	600	Xserve 3x160GB Serial ATA RAID	 Xserve3x160GBSerialATARAID							
+HARD DRIVE	DRIVES	AMSP	HDD	AMSPHDD015		AMSPHDD015	Apple Xserve (Server Pro)	Xserve 4x160GB Serial ATA RAID	GBP	750	Xserve 4x160GB Serial ATA RAID	 Xserve4x160GBSerialATARAID							
+MODEL	MODEL	AMSP	MOD	AMSPMOD005		AMSPMOD005	Apple Xserve (Server Pro)	Xserve	GBP	1900	Xserve	 Xserve							
+OPTICAL DRIVE	DRIVES	AMSP	OPD	AMSPOPD009		AMSPOPD009	Apple Xserve (Server Pro)	Xserve DVD/CD-RW Combo Drive	GBP	80	Xserve DVD/CD-RW Combo Drive	 XserveDVD/CDRWComboDrive							
+OPTICAL DRIVE	DRIVES	AMSP	OPD	AMSPOPD010		AMSPOPD010	Apple Xserve (Server Pro)	Xserve DVD-RW Super Drive	GBP	90	Xserve DVD-RW Super Drive	 XserveDVDRWSuperDrive							

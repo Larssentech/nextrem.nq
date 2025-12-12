@@ -1,0 +1,9 @@
+[PropertyInfo]
+login,String,false,false, , ,false,<default>
+password,String,false,false, , ,false,<default>
+superUser,boolean,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

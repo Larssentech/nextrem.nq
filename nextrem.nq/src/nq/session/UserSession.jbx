@@ -1,0 +1,18 @@
+[PropertyInfo]
+exportPath,String,false,false, , ,false,<default>
+exportToPath,String,false,false, , ,true,<default>
+hideParts,boolean,false,false, , ,true,<default>
+importPath,String,false,false, , ,true,<default>
+journalController,JournalController,false,false, , ,true,<default>
+libraryPath,String,false,false, , ,false,<default>
+nextremQuote,NextremQuote,false,false, , ,true,<default>
+optionBasket,Option,false,false, , ,true,<default>
+saveToPath,String,false,false, , ,true,<default>
+syncAgent,SynchronizationAgent,false,false, , ,true,<default>
+transactionManager,TransactionManager,false,false, , ,true,<default>
+user,User,false,false, , ,true,<default>
+[IconNames]
+
+
+
+
